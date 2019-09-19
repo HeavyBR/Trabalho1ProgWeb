@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/09/2019, 14:55:19
+    Author     : Grupo
+*/
+
+
+body
+{
+    font-family: 'Hepta Slab', serif;
+    font-size: 1em;
+    color: #525252;
+    margin: 0 auto 0 auto;
+}
+table
+{
+    margin: auto;
+}
+h2
+{
+    font-family: 'Inconsolata', monospace;
+    font-size: 2.2em;
+    color: #696464;
+    text-indent:0.5em;
+}
+h3
+{
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.5em;
+    color: #696464;
+    text-indent:0.5em;
+    margin: 2px;
+}
+p
+{
+    margin-left: 26px;
+    margin-right: 26px;
+    font-size: 1em;
+    text-align: justify;
+    text-indent:4em;
+}
+sub
+{
+    font-style: italic;
+}
+
+#foco
+{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.lista
+{
+
+    list-style-type: none;
+}
+.itemlista
+{
+    padding: 10px;
+    font-size: 1.125em;
+}
+.centralizar
+{
+    text-align: center;
+}
